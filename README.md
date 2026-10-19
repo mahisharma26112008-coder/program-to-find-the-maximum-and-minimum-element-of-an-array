@@ -1,0 +1,1 @@
+# program-to-find-the-maximum-and-minimum-element-of-an-array
